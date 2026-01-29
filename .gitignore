@@ -4,3 +4,10 @@ __pycache__/
 venv/
 .idea/
 .vscode/
+# Build files
+*.exe
+*.rar
+
+# Python cache
+__pycache__/
+*.pyc
