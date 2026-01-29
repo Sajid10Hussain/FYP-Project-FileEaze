@@ -1,0 +1,36 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icons/23.png</file>
+    <file>icons/22.png</file>
+    <file>icons/FE.png</file>
+    <file>icons/plus-2-24 (1).ico</file>
+    <file>icons/add-file-24.ico</file>
+    <file>icons/arrow-141-24.ico</file>
+    <file>icons/smart.png</file>
+    <file>icons/copy.png</file>
+    <file>icons/downloader1.png</file>
+    <file>icons/duplicate1.png</file>
+    <file>icons/text extraction.png</file>
+    <file>icons/duplicate finder.png</file>
+    <file>icons/t6 (2).png</file>
+    <file>icons/14.png</file>
+    <file>icons/smart copy.png</file>
+    <file>icons/5.png</file>
+    <file>icons/6.png</file>
+    <file>icons/12.png</file>
+    <file>icons/13.png</file>
+    <file>icons/downloader.png</file>
+    <file>icons/duplicate.png</file>
+    <file>icons/filemani.png</file>
+    <file>icons/Home.png</file>
+    <file>icons/menu-4-16.ico</file>
+    <file>icons/search-3-16.ico</file>
+    <file>icons/settings.png</file>
+    <file>icons/smtcopy.png</file>
+    <file>icons/smtorg.png</file>
+    <file>icons/download-2-16.ico</file>
+    <file>icons/txtextraction.png</file>
+    <file>icons/undoredo.png</file>
+    <file>icons/user-16.ico</file>
+  </qresource>
+</RCC>
